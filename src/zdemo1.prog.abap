@@ -9,3 +9,5 @@ REPORT ZDEMO1.
 
 * Begin of Development Rel2.0
 DATA w_matnr TYPE MATNR.
+* Addition of New data
+DATA w_bukrs TYPE BUKRS
