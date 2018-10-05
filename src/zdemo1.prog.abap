@@ -6,3 +6,6 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZDEMO1.
+
+*Begin of Support Fix Rel1.1
+INITIALIZATION.
