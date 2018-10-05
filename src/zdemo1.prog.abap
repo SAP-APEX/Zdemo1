@@ -7,5 +7,5 @@
 *&---------------------------------------------------------------------*
 REPORT ZDEMO1.
 
-Begin of Development Rel2.0
+* Begin of Development Rel2.0
 DATA w_matnr TYPE MATNR.
